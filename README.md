@@ -2,6 +2,16 @@
 🤔 I’m currently learning
 - Design Pattern
 
+### 내가 읽은 프로그래밍 책
+- 이것이 자바다
+- 자바 ORM 표준 JPA 프로그래밍
+- 헤드퍼스트 디자인 패턴
+- AWS로 구현하는 CI/CD 배포 입문
+- 함수형 프로그래밍 with 자바
+- 자료구조와 함께 배우는 알고리즘 입문
+- 데이터 중심 어플리케이션 설계
+
+
 📫 How to reach me: gustn9515@naver.com
 
 
