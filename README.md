@@ -11,6 +11,11 @@
 - 자료구조와 함께 배우는 알고리즘 입문
 - 데이터 중심 어플리케이션 설계
 
+### 인프런
+- 기초 탄탄 독하게 시작하는 Java - Part1 절차지향 프로그래밍
+- 기초 탄탄 독하게 시작하는 Java - Part2 OOP와 JVM
+- 2026년 객체지향 제대로 배우기 (with Python)
+- 코딩테스트 - ALL IN ONE
 
 📫 How to reach me: gustn9515@naver.com
 
