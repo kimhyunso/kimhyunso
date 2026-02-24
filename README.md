@@ -15,6 +15,7 @@
 
 ### 인프런
 - 기초 탄탄 독하게 시작하는 Java - Part1 절차지향 프로그래밍
+  - https://www.inflearn.com/course/%EC%B7%A8%EC%97%85%EC%A0%84%EB%9E%B5-%EB%8F%85%ED%95%98%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-java-part1?cid=335118
 - 기초 탄탄 독하게 시작하는 Java - Part2 OOP와 JVM
 - 2026년 객체지향 제대로 배우기 (with Python)
 - 코딩테스트 - ALL IN ONE
